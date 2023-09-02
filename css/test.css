@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    font-size: 30px;
+    color: forestgreen;
+}
+
+h2{
+    font-size: 30px; 
+    color: royalblue;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: capitalize;
+}
+
+.big.uppercase{
+    color: cornflowerblue;
+}
